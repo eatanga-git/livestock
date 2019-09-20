@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eatanga-git/livestock.git/static/css/main.0f209de8.chunk.css",
-    "main.js": "/eatanga-git/livestock.git/static/js/main.184ed104.chunk.js",
-    "main.js.map": "/eatanga-git/livestock.git/static/js/main.184ed104.chunk.js.map",
-    "runtime~main.js": "/eatanga-git/livestock.git/static/js/runtime~main.c202af45.js",
-    "runtime~main.js.map": "/eatanga-git/livestock.git/static/js/runtime~main.c202af45.js.map",
-    "static/js/2.b299845c.chunk.js": "/eatanga-git/livestock.git/static/js/2.b299845c.chunk.js",
-    "static/js/2.b299845c.chunk.js.map": "/eatanga-git/livestock.git/static/js/2.b299845c.chunk.js.map",
-    "index.html": "/eatanga-git/livestock.git/index.html",
-    "precache-manifest.26c052780ff0978e71f2251aa6f51ce9.js": "/eatanga-git/livestock.git/precache-manifest.26c052780ff0978e71f2251aa6f51ce9.js",
-    "service-worker.js": "/eatanga-git/livestock.git/service-worker.js",
-    "static/css/main.0f209de8.chunk.css.map": "/eatanga-git/livestock.git/static/css/main.0f209de8.chunk.css.map"
+    "main.css": "/livestock/static/css/main.0f209de8.chunk.css",
+    "main.js": "/livestock/static/js/main.14da10ec.chunk.js",
+    "main.js.map": "/livestock/static/js/main.14da10ec.chunk.js.map",
+    "runtime~main.js": "/livestock/static/js/runtime~main.8b7882b4.js",
+    "runtime~main.js.map": "/livestock/static/js/runtime~main.8b7882b4.js.map",
+    "static/js/2.b299845c.chunk.js": "/livestock/static/js/2.b299845c.chunk.js",
+    "static/js/2.b299845c.chunk.js.map": "/livestock/static/js/2.b299845c.chunk.js.map",
+    "index.html": "/livestock/index.html",
+    "precache-manifest.6fd820cc67bf641138e387b7c89f162f.js": "/livestock/precache-manifest.6fd820cc67bf641138e387b7c89f162f.js",
+    "service-worker.js": "/livestock/service-worker.js",
+    "static/css/main.0f209de8.chunk.css.map": "/livestock/static/css/main.0f209de8.chunk.css.map"
   }
 }
